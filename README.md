@@ -3,8 +3,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
  [https://fit-track-client.vercel.app/](https://fit-track-client.vercel.app/) 
 
 
- # see my Contribut
+ ## See my Contribute
  [https://github.com/justJubair/fit-track-client](https://github.com/justJubair/fit-track-client)
+
+ ## What did I do?
+ 
 
 ## Getting Started
 
