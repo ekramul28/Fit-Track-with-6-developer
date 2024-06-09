@@ -8,6 +8,53 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
  ## What did I do?
  
+## First Week
+
+- Explored Nextjs basic thing
+- Explored how to Collaborate on GitHub
+- Created NavBar and Footer Section
+
+## Second Week
+
+- Explored Mongoose and Next Auth
+- Explored how to resolve GitHub config
+- Created service section route and implemented 10 cards with backend data 
+- Also, modify the banner home page And About page
+
+## Third Week
+
+- Explored Mongoose, Next Auth, Nexjs advance topic
+- Explored how to deploy GitHub to Vercel 
+- Created Login And Registered Page 
+- Deploy our website in Vercel
+
+## Fourth Week
+
+- Explored How to convert MS to PDF  and other things
+- Created every card click redirect Another page
+ on this page create a box and implement Drag and Drop Functionality also implement input type file
+- And input Validation 
+
+## Fifth Week
+
+- Implement Dark And White Mode on our Website
+- I was trying two-card functionality but l couldn’t do it because I didn’t have enough time this week also I was working on the Nexjs project.
+- I switched to another group because only two members were active in our group
+## See Live Link 
+[https://pdfmagic-bice.vercel.app/](https://pdfmagic-bice.vercel.app/)
+## only two people worked on it
+
+## Six Week
+
+ - six trainer cards implemented in the Trainer section
+ - Login and register page rebuild again 
+- Video call full Functionality and video call frontend part 
+
+## Seven Week
+
+ - Again six trainer cards were implemented in the Trainer section
+ - And took preparation for the presentation
+
 
 ## Getting Started
 
