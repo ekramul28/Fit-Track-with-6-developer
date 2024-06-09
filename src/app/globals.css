@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.loader {
+  position: absolute;
+  z-index: 50;
+  left: 50%;
+  top: 50%;
+}
+
+.MuiDialog-paperScrollPaper {
+  background: rgba(90, 80, 85, 0.2) !important;
+  backdrop-filter: blur(20px) !important;
+  box-shadow: inset 1px 1px 10px rgba(209, 204, 204, 0.63) !important;
+  padding: 10px 0 20px 0 !important;
+  border-radius: .9rem !important;
+}
+
+
+.bg-challenge {
+	background: linear-gradient(-45deg, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 41%, rgb(255, 255, 255) 61%, rgba(148,187,233,1) 100%);
+	background-size: 400% 400%;
+	animation: gradient 10s ease infinite;
+	
+}
+
+
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+
